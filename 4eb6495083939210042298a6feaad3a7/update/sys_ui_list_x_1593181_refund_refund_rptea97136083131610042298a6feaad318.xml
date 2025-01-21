@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1593181_refund_refund" version="2" view="RPTea97136083131610042298a6feaad318">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1593181_refund_refund" element="NULL" name="x_1593181_refund_refund" parent="NULL" relationship="NULL" sys_domain="global" view="f6975f6083131610042298a6feaad3e7">3e975f6083131610042298a6feaad3e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-21 19:01:51</sys_created_on>
+            <sys_id>7a975f6083131610042298a6feaad3e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-21 19:01:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_1593181_refund_refund" element="NULL" name="x_1593181_refund_refund" parent="NULL" relationship="NULL" sys_domain="global" view="f6975f6083131610042298a6feaad3e7">3e975f6083131610042298a6feaad3e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-21 19:01:51</sys_created_on>
+            <sys_id>7e975f6083131610042298a6feaad3e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-21 19:01:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_1593181_refund_refund" element="NULL" name="x_1593181_refund_refund" parent="NULL" relationship="NULL" sys_domain="global" view="f6975f6083131610042298a6feaad3e7">3e975f6083131610042298a6feaad3e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-21 19:01:51</sys_created_on>
+            <sys_id>72975f6083131610042298a6feaad3ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-21 19:01:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_1593181_refund_refund" element="NULL" name="x_1593181_refund_refund" parent="NULL" relationship="NULL" sys_domain="global" view="f6975f6083131610042298a6feaad3e7">3e975f6083131610042298a6feaad3e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-21 19:01:51</sys_created_on>
+            <sys_id>76975f6083131610042298a6feaad3ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-21 19:01:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_1593181_refund_refund" element="NULL" name="x_1593181_refund_refund" parent="NULL" relationship="NULL" sys_domain="global" view="f6975f6083131610042298a6feaad3e7">3e975f6083131610042298a6feaad3e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-21 19:01:51</sys_created_on>
+            <sys_id>7a975f6083131610042298a6feaad3ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-21 19:01:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="x_1593181_refund_refund" element="NULL" name="x_1593181_refund_refund" parent="NULL" relationship="NULL" sys_domain="global" view="f6975f6083131610042298a6feaad3e7">3e975f6083131610042298a6feaad3e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-21 19:01:51</sys_created_on>
+            <sys_id>7e975f6083131610042298a6feaad3ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-21 19:01:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1593181_refund_refund</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-21 19:01:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e975f6083131610042298a6feaad3e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1593181_refund_refund</sys_name>
+            <sys_package display_value="Refund" source="x_1593181_refund">4eb6495083939210042298a6feaad3a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Refund">4eb6495083939210042298a6feaad3a7</sys_scope>
+            <sys_update_name>sys_ui_list_x_1593181_refund_refund_RPTea97136083131610042298a6feaad318</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-21 19:01:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptea97136083131610042298a6feaad318" name="RPTea97136083131610042298a6feaad318">f6975f6083131610042298a6feaad3e7</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
