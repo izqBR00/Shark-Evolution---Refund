@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Allow report_view for records in task_sla, for users with role x_1593181_refund.hr_manager.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>task_sla</name>
+        <operation display_value="report_view">0997ab83733303005978e4b9cdf6a7b9</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 20:26:31</sys_created_on>
+        <sys_id>3474fcc1839b5610042298a6feaad337</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>task_sla</sys_name>
+        <sys_package display_value="Refund" source="x_1593181_refund">4eb6495083939210042298a6feaad3a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Refund">4eb6495083939210042298a6feaad3a7</sys_scope>
+        <sys_update_name>sys_security_acl_3474fcc1839b5610042298a6feaad337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 20:27:27</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Refund">4eb6495083939210042298a6feaad3a7</application>
+        <file_path/>
+        <instance_id>e1b50610dbda3d18f697684e13961947</instance_id>
+        <instance_name>dev199015</instance_name>
+        <name>sys_security_acl_3474fcc1839b5610042298a6feaad337</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description>Allow report_view for records in task_sla, for users with role x_1593181_refund.hr_manager.</description><local_or_existing>Local</local_or_existing><name>task_sla</name><operation display_value="report_view">0997ab83733303005978e4b9cdf6a7b9</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-22 20:26:31</sys_created_on><sys_id>3474fcc1839b5610042298a6feaad337</sys_id><sys_mod_count>1</sys_mod_count><sys_name>task_sla</sys_name><sys_package display_value="Refund" source="x_1593181_refund">4eb6495083939210042298a6feaad3a7</sys_package><sys_policy/><sys_scope display_value="Refund">4eb6495083939210042298a6feaad3a7</sys_scope><sys_update_name>sys_security_acl_3474fcc1839b5610042298a6feaad337</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-22 20:27:27</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1175701343</payload_hash>
+        <record_name>task_sla</record_name>
+        <reverted_from/>
+        <source>c03495dc83939210042298a6feaad349</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 20:27:27</sys_created_on>
+        <sys_id>aac4b805839b5610042298a6feaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948fb2cf350000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 20:27:27</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>22c4b805769b561076f0dc00a6a5e19a</update_guid>
+        <update_guid_history>22c4b805769b561076f0dc00a6a5e19a:-1175701343,b8947405879b561085dae82f73431f34:1954394047</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 20:36:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>0c45678e2170496583994ff277bf0d01</sys_id>
+        <sys_metadata>3474fcc1839b5610042298a6feaad337</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_sla</sys_name>
+        <sys_package display_value="Refund" source="x_1593181_refund">4eb6495083939210042298a6feaad3a7</sys_package>
+        <sys_parent display_value="task_sla">dde45b24dcd212104f34465061b06a6c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Refund">4eb6495083939210042298a6feaad3a7</sys_scope>
+        <sys_scope_delete display_value="">4c0c9ee3f830458eb764db3edc21f8b1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_3474fcc1839b5610042298a6feaad337</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_3474fcc1839b5610042298a6feaad337">aac4b805839b5610042298a6feaad39a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 20:36:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
