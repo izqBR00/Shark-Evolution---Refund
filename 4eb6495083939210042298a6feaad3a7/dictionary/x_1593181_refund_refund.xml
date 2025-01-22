@@ -2,7 +2,7 @@
     <element db_object_id="c84e459883939210042298a6feaad3b0" extends="task" label="Refund" max_length="40" name="x_1593181_refund_refund" type="collection">
         <element label="Category" max_length="32" name="category" reference="x_1593181_refund_refund_category" type="reference"/>
         <element label="Reproval Reason" max_length="4000" name="reproval_reason" type="string"/>
-        <element label="Dollar Value" max_length="40" name="dollar_value" type="currency"/>
+        <element label="Dollar Value" max_length="40" name="dollar_value" type="price"/>
         <element label="Date" max_length="40" name="date" type="glide_date"/>
         <element label="Value" max_length="40" name="value" type="currency"/>
         <element display="true" label="Name" max_length="40" name="name" type="string"/>
